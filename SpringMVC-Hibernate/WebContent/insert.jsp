@@ -11,6 +11,7 @@
 		Category id <input type="text" name="categoryId"><br>
 		Stock Code <input type="text" name="stockCode"><br>
 		Stock Name <input type="text" name="stockName"><br>
+		Stock Description <input type="text" name="stockDesc"><br>
 		<input type="submit" name="insert" value="Insert">
 	</form>
 </body>
