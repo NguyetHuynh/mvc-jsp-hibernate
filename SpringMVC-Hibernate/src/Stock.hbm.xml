@@ -16,6 +16,7 @@
                     <property name="categoryId" column="CategoryId" type="int"/>
               		<property name="stockCode" column="stock_code" type="string"/>
               		<property name="stockName" column="stock_name" type="string"/>
+                        <property name="stockDesc" column="stock_desc" type="string"/>
                 </class>
                 
               </hibernate-mapping>
